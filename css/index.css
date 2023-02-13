@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: rgb(255, 221, 227);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 320px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.header {
+    border-bottom: 2px solid gray;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+
+p {
+    background-color: #acffac;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.content {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
